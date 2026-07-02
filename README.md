@@ -105,7 +105,7 @@ streamlit run fraud_detection.py
 
 ### Launch Uptime check
 ```bash
-python keep_alive.py http://localhost:8501
+python keep_alive.py https://fraud-detection-weba.streamlit.app/
 ```
 
 ---
