@@ -1,7 +1,7 @@
 # Financial Transaction Fraud Detection — End-to-End ML Pipeline
 Turn 6.36M raw transaction logs into real-time fraud prevention alerts — from data ingestion to a live, interactive dashboard.
 
-Live Demo → fraud-detection-os.streamlit.app
+Live Demo → [Fraud Detection](https://fraud-detection-weba.streamlit.app/)
 
 ## Problem Statement
 A global financial payment company processes **6.36 million transactions** generated over a simulated time window. The risk assessment team has no systematic way to:
